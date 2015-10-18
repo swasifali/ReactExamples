@@ -25,7 +25,7 @@ var Card = React.createClass({
 var Main = React.createClass({
   
   getInitialState: function() {
-    return {logins: ['shanselman', 'torvalds', 'petehunt', 'zpao', ]};
+    return {logins: ['shanselman', 'torvalds', 'petehunt', 'zpao', 'swasifali' ]};
   },
   
   render: function() {
